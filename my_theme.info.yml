@@ -2,3 +2,7 @@ name: my_theme
 description: A test theme for learning
 type: theme
 core: 8.x
+regions:
+  content: 'Main content'
+  header: 'Header'
+  footer: 'Footer'
